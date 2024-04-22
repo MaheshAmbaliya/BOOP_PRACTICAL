@@ -22,14 +22,14 @@ int main()
       e1.Basic = 85;
       e1.DA = 30;
       e1.IT =17;
-      e1.Net_s = 2030;
+      e1.Net_s = 20300;
 
-     cout << "Employee Number = " << e1.number<<endl;
-     cout << "Employee Name = " << e1.name<<endl;
-     cout << "Employee Basic = " << e1.Basic<<endl;
-    cout << "Employee DA = " << e1.DA<<endl;
-    cout << "Employee IT = " << e1.IT<<endl;
-    cout << "Employee NS = " << e1.Net_s<<endl;
+     cout << "Employee Number : " << e1.number<<endl;
+     cout << "Employee Name : " << e1.name<<endl;
+     cout << "Employee Basic : " << e1.Basic<<endl;
+    cout << "Employee DA : " << e1.DA<<endl;
+    cout << "Employee IT : " << e1.IT<<endl;
+    cout << "Employee Net_s : " << e1.Net_s<<endl;
 
 
     return 0;
