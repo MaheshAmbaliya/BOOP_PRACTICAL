@@ -17,7 +17,7 @@ int main()
 {
       Employee e1;
 
-      e1.number = 36474747;
+      e1.number = 3647474747;
       e1.name = "Milan";
       e1.Basic = 85;
       e1.DA = 30;
